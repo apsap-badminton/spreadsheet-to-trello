@@ -1,0 +1,634 @@
+[
+    [
+        "Mathieu Poirée",
+        "H",
+        "R4",
+        "N3",
+        "N3",
+        "non"
+    ],
+    [
+        "Alexandre Poirée",
+        "H",
+        "R4",
+        "N3",
+        "R4",
+        "oui"
+    ],
+    [
+        "Axel Tran",
+        "H",
+        "R4",
+        "N3",
+        "R4",
+        "non"
+    ],
+    [
+        "Lena Corot",
+        "F",
+        "R4",
+        "R4",
+        "N3",
+        "oui"
+    ],
+    [
+        "Nhu Mai Lam",
+        "F",
+        "R4",
+        "R4",
+        "N3",
+        "non"
+    ],
+    [
+        "Astrid Galy-Dejean",
+        "F",
+        "N3",
+        "R5",
+        "R4",
+        "non"
+    ],
+    [
+        "Lucile Pateyron",
+        "F",
+        "R4",
+        "N3",
+        "R5",
+        "non"
+    ],
+    [
+        "Catia Carvalhosa",
+        "F",
+        "R5",
+        "R4",
+        "R4",
+        "oui"
+    ],
+    [
+        "Hanaë Chan Ng Yok",
+        "F",
+        "R5",
+        "R4",
+        "R4",
+        "non"
+    ],
+    [
+        "Valentin Defour",
+        "H",
+        "R5",
+        "R5",
+        "R4",
+        "oui"
+    ],
+    [
+        "Clément Authié",
+        "H",
+        "R5",
+        "R5",
+        "R5",
+        "oui"
+    ],
+    [
+        "Reta Devi",
+        "F",
+        "R6",
+        "R5",
+        "R5",
+        "non"
+    ],
+    [
+        "Daniel Marin",
+        "H",
+        "R5",
+        "R6",
+        "R6",
+        "non"
+    ],
+    [
+        "Alexander Klein",
+        "H",
+        "R6",
+        "R6",
+        "R6",
+        "non"
+    ],
+    [
+        "Nicola Lugnani",
+        "H",
+        "R6",
+        "R6",
+        "R6",
+        "non"
+    ],
+    [
+        "Fabienne Rabeau",
+        "F",
+        "R6",
+        "R6",
+        "D7",
+        "non"
+    ],
+    [
+        "Louis Sallot des Noyers",
+        "H",
+        "R6",
+        "R6",
+        "D7",
+        "non"
+    ],
+    [
+        "Mégane Simon",
+        "F",
+        "D7",
+        "R6",
+        "R6",
+        "non"
+    ],
+    [
+        "Myriam Diemer",
+        "F",
+        "D7",
+        "R5",
+        "D7",
+        "non"
+    ],
+    [
+        "Renaud Agnasse",
+        "H",
+        "D7",
+        "R6",
+        "R6",
+        "non"
+    ],
+    [
+        "Aude Migliasso",
+        "F",
+        "D8",
+        "R6",
+        "R6",
+        "non"
+    ],
+    [
+        "Jules Barbaggio",
+        "H",
+        "D7",
+        "R6",
+        "D7",
+        "non"
+    ],
+    [
+        "David Fricot",
+        "H",
+        "D7",
+        "D7",
+        "D7",
+        "non"
+    ],
+    [
+        "Renaud Danflous",
+        "H",
+        "D7",
+        "D7",
+        "D7",
+        "non"
+    ],
+    [
+        "Bernard Lam Van Ba",
+        "H",
+        "D8",
+        "R6",
+        "D8",
+        "non"
+    ],
+    [
+        "Christophe Ravier",
+        "H",
+        "D8",
+        "D7",
+        "D7",
+        "non"
+    ],
+    [
+        "Emilie Gautier",
+        "F",
+        "D8",
+        "R6",
+        "D8",
+        "non"
+    ],
+    [
+        "Benoit Fagnou",
+        "H",
+        "D7",
+        "D8",
+        "D8",
+        "non"
+    ],
+    [
+        "Toufic Chehaibar",
+        "H",
+        "D8",
+        "D7",
+        "D8",
+        "non"
+    ],
+    [
+        "Ana Paraiso",
+        "F",
+        "D8",
+        "D8",
+        "D8",
+        "non"
+    ],
+    [
+        "Emmanuel Pateyron",
+        "H",
+        "D9",
+        "D8",
+        "D8",
+        "non"
+    ],
+    [
+        "Théo Desagnat",
+        "H",
+        "D8",
+        "D8",
+        "D9",
+        "non"
+    ],
+    [
+        "Bastien Laby",
+        "H",
+        "D9",
+        "D8",
+        "P10",
+        "non"
+    ],
+    [
+        "Eric Marsallon",
+        "H",
+        "P11",
+        "D8",
+        "D8",
+        "non"
+    ],
+    [
+        "Fabien Deshommes",
+        "H",
+        "P10",
+        "D8",
+        "D9",
+        "non"
+    ],
+    [
+        "Hugo Range",
+        "H",
+        "D7",
+        "P10",
+        "P10",
+        "non"
+    ],
+    [
+        "Marjolaine Aniento",
+        "F",
+        "P10",
+        "D9",
+        "D8",
+        "non"
+    ],
+    [
+        "Naman Negi",
+        "H",
+        "P10",
+        "D8",
+        "D9",
+        "non"
+    ],
+    [
+        "Pierre-A Joseph",
+        "H",
+        "D9",
+        "D8",
+        "p10",
+        "non"
+    ],
+    [
+        "Vincent Kaufmann",
+        "H",
+        "P10",
+        "D8",
+        "P10",
+        "non"
+    ],
+    [
+        "Céline Settimelli",
+        "F",
+        "P11",
+        "D9",
+        "D9",
+        "non"
+    ],
+    [
+        "Gaspard Cantais",
+        "H",
+        "D9",
+        "P10",
+        "P10",
+        "non"
+    ],
+    [
+        "Alan Savary",
+        "H",
+        "P10",
+        "P10",
+        "P10",
+        "non"
+    ],
+    [
+        "Eric Bonin",
+        "H",
+        "P10",
+        "D9",
+        "P11",
+        "non"
+    ],
+    [
+        "Jule Sarfati",
+        "F",
+        "D9",
+        "P11",
+        "P10",
+        "non"
+    ],
+    [
+        "Julien Lebois",
+        "H",
+        "P10",
+        "D9",
+        "P11",
+        "non"
+    ],
+    [
+        "Maxime Philippon",
+        "H",
+        "P10",
+        "D9",
+        "P11",
+        "non"
+    ],
+    [
+        "Adrien Dadone",
+        "H",
+        "P10",
+        "P10",
+        "P11",
+        "non"
+    ],
+    [
+        "Chloé Stéphan",
+        "H",
+        "P11",
+        "D9",
+        "P11",
+        "non"
+    ],
+    [
+        "Delphine Dijoux",
+        "F",
+        "P11",
+        "D9",
+        "P11",
+        "non"
+    ],
+    [
+        "Fabrice Goubard",
+        "H",
+        "P11",
+        "D9",
+        "P11",
+        "non"
+    ],
+    [
+        "Jérémy Chateigner",
+        "H",
+        "P11",
+        "P10",
+        "P10",
+        "non"
+    ],
+    [
+        "Lina Saib",
+        "F",
+        "D9",
+        "P11",
+        "P11",
+        "non"
+    ],
+    [
+        "Alain Beauregard",
+        "H",
+        "P10",
+        "P10",
+        "P12",
+        "non"
+    ],
+    [
+        "Isabelle Verscheure",
+        "F",
+        "P12",
+        "P10",
+        "P10",
+        "non"
+    ],
+    [
+        "Lazare Grail",
+        "H",
+        "P10",
+        "P10",
+        "P12",
+        "non"
+    ],
+    [
+        "Stéphane Bradesi",
+        "H",
+        "P10",
+        "P10",
+        "P12",
+        "non"
+    ],
+    [
+        "Thierry Brien",
+        "H",
+        "P12",
+        "D8",
+        "P12",
+        "non"
+    ],
+    [
+        "Tristan de Parceveaux",
+        "H",
+        "P10",
+        "P10",
+        "P12",
+        "non"
+    ],
+    [
+        "Victor Duong",
+        "H",
+        "P10",
+        "P10",
+        "P12",
+        "non"
+    ],
+    [
+        "Daniel Bellemans",
+        "H",
+        "P11",
+        "P10",
+        "P12",
+        "non"
+    ],
+    [
+        "Fabien Arcambourque",
+        "H",
+        "P11",
+        "P10",
+        "P12",
+        "non"
+    ],
+    [
+        "Mohamed Najmi",
+        "H",
+        "P10",
+        "P11",
+        "P12",
+        "non"
+    ],
+    [
+        "Paul-Emmanuel Legagneux",
+        "H",
+        "P10",
+        "P11",
+        "P12",
+        "oui"
+    ],
+    [
+        "Richard Teulat",
+        "H",
+        "P12",
+        "P10",
+        "P11",
+        "non"
+    ],
+    [
+        "Samuel Durand",
+        "H",
+        "P11",
+        "P10",
+        "P12",
+        "non"
+    ],
+    [
+        "Stephan Sberro",
+        "H",
+        "P11",
+        "P10",
+        "P12",
+        "oui"
+    ],
+    [
+        "Anouck Congar",
+        "F",
+        "P10",
+        "P12",
+        "P12",
+        "non"
+    ],
+    [
+        "Matthieu Fredon",
+        "H",
+        "P11",
+        "P11",
+        "P12",
+        "non"
+    ],
+    [
+        "Maxime Ragot",
+        "H",
+        "P12",
+        "P11",
+        "P12",
+        "non"
+    ],
+    [
+        "Aurélien Brault",
+        "H",
+        "P12",
+        "P12",
+        "P12",
+        "non"
+    ],
+    [
+        "Elise Vidal",
+        "F",
+        "P12",
+        "P12",
+        "P12",
+        "non"
+    ],
+    [
+        "Erwan Scornet",
+        "H",
+        "P12",
+        "P12",
+        "P12",
+        "non"
+    ],
+    [
+        "Mai Thi Nguyen",
+        "F",
+        "P12",
+        "P12",
+        "P12",
+        "non"
+    ],
+    [
+        "Mathieu Paugam",
+        "H",
+        "P12",
+        "P12",
+        "P12",
+        "non"
+    ],
+    [
+        "Maxime Plaisantin",
+        "H",
+        "P12",
+        "P12",
+        "P12",
+        "non"
+    ],
+    [
+        "Raphaël Rose Andrieux",
+        "H",
+        "P12",
+        "P12",
+        "P12",
+        "oui"
+    ],
+    [
+        "Gwendoline Ledoux",
+        "F",
+        "?",
+        "?",
+        "?",
+        "non"
+    ],
+    [
+        "Katsuya Hashimoto",
+        "H",
+        "?",
+        "?",
+        "?",
+        "oui"
+    ]
+]

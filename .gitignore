@@ -1,0 +1,8 @@
+spreadsheet-credentials.json
+trello-credentials.json
+.vscode
+pyvenv.cfg
+Scripts
+Include
+Lib
+token.pickle
